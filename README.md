@@ -9,4 +9,4 @@ This is for your triggers. You can set up how frequently you want the script to 
 
 
 Also, you can change the code given in delete.gs according to your own circumstances. 
-For example, I used the keyword "older_than:2y" to delete the mails older than 2 years you can change it to "older_than:5m" if you want to delete emails older than 5mins.
+
